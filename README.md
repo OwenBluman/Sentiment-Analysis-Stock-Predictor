@@ -1,5 +1,5 @@
 # Sentiment Analysis Stock Predictor
-A program to query the latest news data from a variety of sources, and then predict stock price based
+A program to extract the latest news data from a variety of sources, and then predict stock price based
 upon an algorithm weighting FinBERT's sentiment analysis and market volatility.
 
 ## Demo
