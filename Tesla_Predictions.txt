@@ -1,0 +1,13 @@
+Tesla Stock Price Predictions - April 21, 2025
+True Price: $227.50
+
+Predicted Prices by Source:
+CNN: $228.13 (+0.27%)
+Stocks: $232.48 (+2.19%)
+Forbes: $236.44 (+3.93%)
+WallStreetBets: $242.07 (+6.40%)
+CNBC: $225.96 (-0.68%)
+Investing: $225.97 (-0.67%)
+
+Average Absolute % Difference (Traditional Sources): 1.63%
+Average Absolute % Difference (Reddit Sources): 3.09%

@@ -1,0 +1,13 @@
+Nvidia Stock Price Predictions - April 21, 2025
+True Price: $96.91
+
+Predicted Prices by Source:
+Stocks: $82.23 (-15.15%)
+Forbes: $92.63 (-4.42%)
+CNN: $101.52 (+4.76%)
+WallStreetBets: $101.49 (+4.73%)
+CNBC: $99.06 (+2.21%)
+Investing: $92.02 (-5.04%)
+
+Average Absolute % Difference (Traditional Sources): 3.80%
+Average Absolute % Difference (Reddit Sources): 8.31%

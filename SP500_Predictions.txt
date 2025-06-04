@@ -1,0 +1,13 @@
+SP500 Stock Price Predictions - April 21, 2025
+True Price: $5158.20
+
+Predicted Prices by Source:
+WallStreetBets: $5299.40 (+2.74%)
+Investing: $5176.08 (+0.35%)
+Forbes: $5374.31 (+4.19%)
+Stocks: $5119.16 (-0.76%)
+CNN: $5079.23 (-1.53%)
+CNBC: $5159.72 (+0.03%)
+
+Average Absolute % Difference (Traditional Sources): 1.92%
+Average Absolute % Difference (Reddit Sources): 1.28%

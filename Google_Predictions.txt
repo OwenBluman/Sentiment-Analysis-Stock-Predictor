@@ -1,0 +1,13 @@
+Google Stock Price Predictions - April 21, 2025
+True Price: $149.86
+
+Predicted Prices by Source:
+CNBC: $153.20 (+2.23%)
+Stocks: $156.73 (+4.59%)
+CNN: $144.37 (-3.66%)
+WallStreetBets: $148.51 (-0.90%)
+Investing: $142.56 (-4.87%)
+Forbes: $155.27 (+3.61%)
+
+Average Absolute % Difference (Traditional Sources): 3.17%
+Average Absolute % Difference (Reddit Sources): 3.45%
