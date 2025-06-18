@@ -11,7 +11,7 @@ First run collect_data.py to gather a database of news headlines and Reddit post
 the stock prices and dates in main.py to accurately reflect the prediction period. Lastly, run main.py
 to get the predicted pricing data. Currently, the program is configured to backtest on a prediction period
 in the past, and thus it outputs a variety of statistics relating to prediction accuracy across news sources.
-`
+
 ## Paper
 A paper detailing the data collection process, prediction algorithm, analysis of findings and societal implications
 can be found in the file The Impact of Varied News Sources on FinBERT-based Stock Predictions.pdf.
